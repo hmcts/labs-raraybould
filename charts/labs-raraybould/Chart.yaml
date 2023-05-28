@@ -3,10 +3,10 @@ appVersion: "1.0"
 description: A Helm chart for labs-raraybould App
 name: labs-raraybould
 home: https://github.com/hmcts/labs-raraybould
-version: 0.0.1
+version: 0.0.2
 maintainers:
   - name: HMCTS labs team
 dependencies:
   - name: java
-    version: 4.0.11
+    version: 4.1.2
     repository: 'https://hmctspublic.azurecr.io/helm/v1/repo/'
